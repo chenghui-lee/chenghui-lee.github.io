@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Programming League National 2020"
+excerpt: "Second place in closed category<br/><img src='/images/programming-league-2020.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Got second place in the Programming League National 2020 (Closed Category), a competitive programming competition with my teammates. Tried our best to tackle the remaining questions, and left with 2 unsolved.
+
+p/s: We are the team with the most first solve in our category.
+
+[Result page](https://programming-league.com/scoreboard-closed)
