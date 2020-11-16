@@ -17,9 +17,9 @@ I also have some minor knowledge on Machine Learning and wish to go deeper in th
 I teach Java programming as a teaching assistant in the Faculty of Computer Science and Information Technology (FSKTM), University of Malaya since Oct, 2020.
 
 ## What I Speak
-- Chinese (Spoken and Writen)
-- English (Spoken and Writen)
-- Malay (Spoken and Writen)
+- Chinese (Spoken and Written)
+- English (Spoken and Written)
+- Malay (Spoken and Written)
 - Cantonese (Spoken)
 
 ## Skills and Programming Languages
