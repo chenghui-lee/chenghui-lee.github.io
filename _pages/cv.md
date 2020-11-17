@@ -22,7 +22,7 @@ Work experiences
     - Prepare assignment question for Fundamentals of Programming subject
 
 * Aug 2020 - Current : Software Developer (Backend)
-  * eHealth Initiative(UMeHI), University of Malaya
+  * eHealth Initiative (UMeHI), University of Malaya
   * Duties included:
     - Design a digital health system.
     - Works with GoLang, MongoDB and gRPC.
