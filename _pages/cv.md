@@ -13,7 +13,7 @@ Education
 ======
 * B.S. Computer Science (Artificial Intelligence), University of Malaya, 2023 (expected)
 
-Work experience
+Work experiences
 ======
 * Oct 2020 - Current : Teaching Assistant
   * Faculty of Computer Science and Information Technology, University of Malaya
@@ -21,8 +21,11 @@ Work experience
     - Demonstrate Java programming exercise in Fundamentals of Programming subject
     - Prepare assignment question for Fundamentals of Programming subject
 
-* Aug 2020 - Current : Part Time Software Developer (Backend)
-  * Project for University Malaya Medical Centre
+* Aug 2020 - Current : Software Developer (Backend)
+  * eHealth Initiative(UMeHI), University of Malaya
+  * Duties included:
+    - Design a digital health system.
+    - Works with GoLang, MongoDB and gRPC.
   
 Skills
 ======
