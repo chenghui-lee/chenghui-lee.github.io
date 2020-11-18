@@ -1,7 +1,7 @@
 ---
 title: "Programming League National 2020"
 excerpt: "Second place in closed category<br/><img src='/images/programming-league-2020.png'>"
-collection: portfolio
+collection: achievement
 ---
 
 
