@@ -3,6 +3,9 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
+  - title: "Achievement"
+    url: /achievement/
+    
   - title: "Blog Posts"
     url: /year-archive/
     
