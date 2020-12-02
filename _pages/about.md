@@ -10,7 +10,7 @@ redirect_from:
 Hi, I'm Cheng Hui. Welcome to my website :)
 
 ## My Background
-I'm currently pursuing my second year study in Bsc Comp Sc at University of Malaya. I love solving problems and I like competitive programming too.
+I'm currently pursuing my second year study in BSc Comp Sc at University of Malaya. I love solving problems and I like competitive programming too.
 
 I also have some minor knowledge on Machine Learning and wish to go deeper in the future.
 
