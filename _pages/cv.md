@@ -40,3 +40,11 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+International Exchange Experiences
+======
+* Telkom University, Indonesia (Remote Short-Term Student Exchange Program 2020) [Details](https://io.telkomuniversity.ac.id/remote-short-term-malaya/)
+<img src='/images/open ceremony telU.png'>
+
+  - In this 5 days program, we learned about Image Recognition using OpenCV, Machine Learning and AI in our daily life.
+  - Introduced to some traditional dances and musical instruments of Indonesia.
