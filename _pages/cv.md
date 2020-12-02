@@ -35,11 +35,6 @@ Skills
 * Data Structure and Algorithm
 * Unix
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 International Exchange Experiences
 ======
@@ -48,3 +43,9 @@ International Exchange Experiences
 
   - In this 5 days program, we learned about Image Recognition using OpenCV, Machine Learning and AI in our daily life.
   - Introduced to some traditional dances and musical instruments of Indonesia.
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
