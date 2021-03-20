@@ -18,8 +18,8 @@ Work experiences
 * Oct 2020 - Current : Teaching Assistant
   * Faculty of Computer Science and Information Technology, University of Malaya
   * Duties included: 
-    - Demonstrate Java programming exercise in Fundamentals of Programming subject
-    - Prepare assignment question for Fundamentals of Programming subject
+    - Demonstrate Java programming exercise in Fundamentals of Programming and Data Structure subject
+    - Prepare assignment question for both of the subjects mentioned above.
 
 * Aug 2020 - Current : Software Developer (Backend)
   * eHealth Initiative (UMeHI), University of Malaya
