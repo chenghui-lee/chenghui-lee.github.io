@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Link to resume.](https://lchenghui.com/files/Resume.pdf)
+
 Education
 ======
 * B.S. Computer Science (Artificial Intelligence), University of Malaya, 2023 (expected)
