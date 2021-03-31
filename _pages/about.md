@@ -27,7 +27,7 @@ I teach Java programming as a teaching assistant in the Faculty of Computer Scie
 - C++
 - Python
 - Data Structure and Algorithm
-- Unix
+- Linux
 
 ## Sites
 - [LeetCode](https://leetcode.com/chenghui88/)
