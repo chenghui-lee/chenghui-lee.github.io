@@ -1,5 +1,6 @@
 ---
 title: "MAYA Xtractor"
+date: 2021-02-21
 excerpt: "A script that scraps all the timetables from UM Maya website, and output them in Excel file.<br/><img src='https://i.imgur.com/26NenwJ.png'>"
 collection: portfolio
 ---
