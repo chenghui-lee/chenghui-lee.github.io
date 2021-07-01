@@ -1,5 +1,6 @@
 ---
 title: "Email Spam Classifier"
+date: 2021-07-01
 excerpt: "An email spam classfier built on [Support Vector Machine](https://en.wikipedia.org/wiki/Support-vector_machine)<img src='/images/spam-classifier.jpg'>"
 collection: portfolio
 ---
